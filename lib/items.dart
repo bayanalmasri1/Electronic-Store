@@ -5,3 +5,4 @@ class ItemsModel{
   bool accepting;
   ItemsModel({required this.name,required this.image,required this.value,this.accepting=false }); 
 }
+
